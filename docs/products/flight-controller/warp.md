@@ -6,7 +6,26 @@ The ZERODRAG WARP F7 is a high-performance flight controller developed for moder
 
 ## Features
 
-- 
+- **Fully Solderless Design**  
+  All major connections use pin headers and connectors — no soldering required for standard setups.
+
+- **USB Extension Pads**  
+  Easily relocate the USB port using breakout pads — perfect for tight or enclosed frames.
+
+- **True Pit Mode Support**  
+  Toggle 10V power to your VTX via switch or flight controller logic to avoid overheating while disarmed.
+
+- **Betaflight Connector Standard Compliant**  
+  Wiring layout follows the open Betaflight standard — plug-and-play with compatible GPS, VTX, and receivers.
+
+- **Daisy-Chainable LEDs**  
+  Direct LED pads allow easy connection of addressable LEDs for orientation, style, or status indication.
+
+- **Clean Analog Video**  
+  Integrated LC filter ensures a low-noise, stable FPV feed — even with high-current power systems.
+
+- **Multi-Firmware Compatibility**  
+  Supported by both **Betaflight** and **iNav** — choose your firmware based on your flying style or mission requirements.
 
 ## Specifications
 
