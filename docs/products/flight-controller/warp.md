@@ -1,16 +1,8 @@
 
 # WARP-F7
 
-The ZERODRAG WARP F7 is a cutting-edge flight controller designed for UAVs. It offers advanced
-capabilities with robust performance powered by the STM32F722 microcontroller, two gyro options
-(ICM42688P and MPU6000), and an integrated BMP280 barometer. The controller supports a wide
-range of power inputs (3-6S LiPo) and features a compact form factor (37mm x 38.5mm x 7.1mm),
-making it an ideal choice for high-precision flight operations.
-Enhanced with an AT7456E OSD chip, 32MB BlackBox-Flash for flight data logging, and multiple BEC
-outputs, the ZERODRAG WARP F7 ensures comprehensive functionality for various UAV applications.
-Its connectivity options include up to 6 UARTs, up to 8 Motor outputs, and I2C pads for additional
-sensors. The flight controller is optimized for Betaflight firmware and compatible with iNav,
-providing seamless integration and easy configuration for all your UAV needs.
+The ZERODRAG WARP F7 is a high-performance flight controller developed for modern UAV platforms. Built around a powerful STM32F7 processor, it is engineered to deliver reliable, precise, and responsive flight control. Its compact design, wide input voltage support, and compatibility with popular firmware like Betaflight and iNav make it suitable for a broad range of drone applications—from hobbyist builds to professional systems.
+
 
 ## Features
 
